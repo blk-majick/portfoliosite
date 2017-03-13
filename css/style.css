@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-	
+
 
 body {
 	width: 1000px;
@@ -13,12 +13,13 @@ body {
 
 #title {
 	width: 300px;
-	
+
 }
 
 #navbar {
-	
+	position: fixed;
 }
+
 ul {
 	list-style-type: none;
 	margin: 10px;
@@ -30,12 +31,38 @@ ul {
 li a {
 	font-size: 30px;
 	text-decoration: none;
-	
+
 }
 
 #copy{
 	width: 150px;
-	
+
 }
 
+#col1{
+	width: 182.5px;
+	height: 400px;
+	float: right;
+	margin: 60px 10px 10px 180px;
+}
 
+#col2{
+	width: 182.5px;
+	height: 400px;
+	float: right;
+	margin: 60px 10px 10px 180px;
+}
+
+#col3{
+	width: 182.5px;
+	height: 400px;
+	float: right;
+	margin: 60px 10px 10px 180px;
+}
+
+#col4{
+	width: 182.5px;
+	height: 400px;
+	float: right;
+	margin: 60px 10px 10px 180px;
+}
