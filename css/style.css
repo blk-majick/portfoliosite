@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+	
+
+body {
+	width: 1000px;
+	margin: 0 auto;
+}
+
+#logo {
+	margin: 30px 30px 30px 10px;
+}
+
+#title {
+	width: 300px;
+	
+}
+
+#navbar {
+	
+}
+ul {
+	list-style-type: none;
+	margin: 10px;
+	padding: 0px;
+	display: block;
+	width: 150px;
+}
+
+li a {
+	font-size: 30px;
+	text-decoration: none;
+	
+}
+
+#copy{
+	width: 150px;
+	
+}
+
+
